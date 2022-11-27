@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .wrapper {
+    padding: 1%;
+    width: 80%;
+    height: 83%;
+    margin: 0 auto;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  
+  .btn-primary {
+    background-color: #00a108;
+    padding: 1%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10% 30% 50% 70%;
+  }
+  .btn-primary:hover {
+    background-color: #13df00;
+  }
+  
+  .btn-secondary {
+    background-color: #d1b200;
+    padding: 1%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10% 30% 50% 70%;
+  }
+  .btn-secondary:hover {
+    background-color: #ffee00;
+  }
+  
+  .btn-danger {
+    background-color: #b40000;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10% 30% 50% 70%;
+  }
+  .btn-danger:hover {
+    background-color: #ff0000;
+  }
+  
+  .btn-indietro {
+    background-color: #000;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10% 30% 50% 70%;
+  }
+  .btn-indietro:hover {
+    background-color: rgb(44, 44, 44);
+  }
+
+
+  /* CSS for Menu */
+  .menu {
+    border-bottom: 1px solid grey;
+  }
+  .menu ul {
+    list-style-type: none;
+  }
+  .menu ul li {
+    display: inline;
+    padding: 1%;
+  }
+  .menu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+  }
+  .menu ul li a:hover {
+    color: #FFCC00;
+  }
+  
+  .col-4 {
+    width: 18%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+  }
+  
+  body{
+      background-color: #f1f2f6;
+  }
+  
